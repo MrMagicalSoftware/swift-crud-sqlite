@@ -26,13 +26,15 @@ struct ContentView: View {
     
     var body: some View {
     
+        
+        /*
         Rectangle()
                   .fill(Color.blue)
                   .frame(width:.infinity, height: 100)
                   .overlay(
                     Text("DATA Manager").foregroundColor(Color.white)
                   )
-    
+        */
         ZStack {
             
             LinearGradient(gradient: Gradient(colors :[Color.red , Color.white , Color.blue]), startPoint: .leading, endPoint: .trailing)
