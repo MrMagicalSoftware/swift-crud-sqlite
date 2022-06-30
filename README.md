@@ -11,6 +11,8 @@ Delete files  "MySqliteCrudAppSwiftUI.xcworkspace", "Podfile", "Podfile.lock"   
 *****
 From terminal :
 
+$ pod install
+
 $ pod init
 
 *****
